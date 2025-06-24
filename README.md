@@ -31,7 +31,7 @@ I like working educational projects as well as ones that help boost creativity. 
 
 ## My Github Stats: 
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanieruG&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Daniel's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieruG" alt="Daniel's language" height="192px"  width="1000px"/>
 </div>
 
 <!-- GitHub section: END -->

@@ -15,7 +15,7 @@ I'm proficient in Python, and have some basic skill in HTML, CSS, and Javascript
 
 I like working educational projects as well as ones that help boost creativity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
 
-🔭 I’m currently working on ... nothing. Looking to soon build a TV Show watchlist/tracker thing.
+🔭 I’m currently working on...nothing. Looking to soon build a TV Show watchlist/tracker thing.
 
 
 

@@ -17,13 +17,14 @@ I like working educational projects as well as ones that help boost creativity. 
 
 🔭 I’m currently working on ... nothing. Looking to soon build a TV Show watchlist/tracker thing.
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./anime.gif" width="500" height="320" />
+
 
 - 📫 How to reach me: <a href="www.linkedin.com/in/daniel-gyabaah-6184922b8">Visit my LinkedIn profile!</a>
 
 - ⚡ Things that interest me: I like watching TV shows, anime, reading manga & light novels... 📖.
 
+<!-- code gif-->
+<img align="center" alt="GIF" src="./anime.gif" width="500" height="320" />
 <!-- About section: END -->
  
 <!-- GitHub section -->

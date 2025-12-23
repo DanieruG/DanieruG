@@ -9,7 +9,7 @@
  <!-- About section -->
 
 ---
-✨ I'm an aspiring software engineer, having just finished my A-Levels recently.
+✨ I'm currently a 1st year Computer Science student at the University of Manchester!
 
 I'm proficient in Python, and have some basic skill in HTML, CSS, and Javascript. Currently learning Java!
 

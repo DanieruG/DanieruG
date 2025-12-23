@@ -19,7 +19,7 @@ I like working educational projects as well as ones that help boost creativity. 
 
 
 
-- 📫 How to reach me: [Visit my LinkedIn!](www.linkedin.com/in/daniel-gyabaah)
+- 📫 How to reach me: [Visit my LinkedIn!](https://www.linkedin.com/in/daniel-gyabaah)
 - ⚡ Things that interest me: I like watching TV shows, anime, reading manga & light novels... 📖.
 
 <!-- code gif-->

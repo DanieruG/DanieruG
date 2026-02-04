@@ -11,7 +11,7 @@
 ---
 ✨ I'm currently a 1st year Computer Science student at the University of Manchester!
 
-I'm proficient in Python, and also have skill in HTML, CSS, and Javascript (React.js). Currently learning Java!
+I'm proficient in Python, and also have skill in HTML, CSS, Javascript (React.js) and TypeScript. Currently learning Java!
 
 I like working on educational projects, as well as ones that improve productivity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
 

@@ -11,16 +11,16 @@
 ---
 ✨ I'm currently a 1st year Computer Science student at the University of Manchester!
 
-I'm proficient in Python, and have some basic skill in HTML, CSS, and Javascript. Currently learning Java!
+I'm proficient in Python, and also have skill in HTML, CSS, and Javascript (React.js). Currently learning Java!
 
-I like working educational projects as well as ones that help boost creativity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
+I like working on educational projects, as well as ones that improve productivity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
 
-🔭 I’m currently working on refining my web dev skills, by refurbishing my Conjugator project using React and TailwindCSS.
+🔭 I’m currently working on refining my web dev skills, by creating a recipe tracker website. Check out the repo if you're interested!
 
 
 
 - 📫 How to reach me: [Visit my LinkedIn!](https://www.linkedin.com/in/daniel-gyabaah)
-- ⚡ Things that interest me: I like watching TV shows, anime, reading manga & light novels... 📖.
+- ⚡ Things that interest me: I like playing badminton, watching TV shows & anime, reading manga & light novels... 📖.
 
 <!-- code gif-->
 <img align="center" alt="GIF" src="./anime.gif" width="500" height="320" />

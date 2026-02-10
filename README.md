@@ -20,7 +20,7 @@ I mainly enjoy working on projects that aim to boost productivity. As an example
 
 
 - 📫 How to reach me: [Visit my LinkedIn!](https://www.linkedin.com/in/daniel-gyabaah)
-- ⚡ Things that interest me: I like playing badminton, watching TV shows & anime, reading manga & light novels... 📖.
+- ⚡ Things that interest me: I like playing badminton, cooking, watching TV shows & anime, reading manga & light novels... 📖.
 
 <!-- code gif-->
 <img align="center" alt="GIF" src="./anime.gif" width="500" height="320" />

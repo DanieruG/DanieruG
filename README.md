@@ -13,7 +13,7 @@
 
 I'm proficient in Python, and also have skill in HTML, CSS, Javascript (React.js) and TypeScript. Currently learning Java!
 
-I like working on educational projects, as well as ones that improve productivity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
+I mainly enjoy working on projects that aim to boost productivity. As an example, for my A-Level CompSci coursework, I worked on a website which allows people to practice conjugating verbs in French 🇫🇷.
 
 🔭 I’m currently working on refining my web dev skills, by creating a recipe tracker website. Check out the repo if you're interested!
 

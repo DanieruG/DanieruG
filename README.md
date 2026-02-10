@@ -30,7 +30,7 @@ I mainly enjoy working on projects that aim to boost productivity. As an example
 
 ## My Github Stats: 
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieruG" alt="Daniel's language" height="192px"  width="1000px"/>
+  Work in progress...
 </div>
 
 <!-- GitHub section: END -->
